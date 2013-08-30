@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>ABCXYZ3a </title>
+	</head>
+	<body><img src="http://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg"; />
+    <P>Hello my name is adam! I am a twenty four year old father of two wonderful daughters from Lansdale,!</P>    
+        <ul>
+            <li style="font-family:Impact">Interests</li>
+                <ol>
+                    <li>kids</li>
+                    <li>computers</li>
+                    <li>music</li>
+                </ol>
+            <li style="color:red">Jobs</li><ol>
+                    <li>no job!</li>
+                    <li>office</li>
+                    <li>delivering</li>
+            </ol>
+            <li>Favorite Quotes</li><ol>
+                    <li>"smoke em if you got'em'"</li>
+                    <li>"feelin' lunky punk'"</li>
+            </ol>
+            <li>Where I've Lived'</li><ul>
+                <li style="font-size:20px">king of prussia</li>
+                <li>norristown</li>
+                <li>lansdale</li>
+            </ul>
+        </ul>    
+        </body>
+</html>
